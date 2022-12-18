@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.bible_observer">
+    package="com.Skiexx.Bible_Observer">
    <application
-        android:label="bible_observer"
+        android:label="Обозреватель Библии"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
