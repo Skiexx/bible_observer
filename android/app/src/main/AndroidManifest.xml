@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.Skiexx.Bible_Observer">
+    package="com.example.bible_observer">
    <application
         android:label="Обозреватель Библии"
         android:name="${applicationName}"
